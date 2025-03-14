@@ -6,7 +6,7 @@ It includes:
 -Waybar and a backup
 -Sddm
 
-#Future Proyects
+# Future Proyects
 Add vim and/or nvim
 Add Mako 
 Probably make changes in the other files
